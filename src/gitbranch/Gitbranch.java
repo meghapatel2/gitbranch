@@ -7,7 +7,7 @@ package gitbranch;
 
 /**
  *
- * @author Megha
+ * @author Megha,2019
  */
 public class Gitbranch {
 
